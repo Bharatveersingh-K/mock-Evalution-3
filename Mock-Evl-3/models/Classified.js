@@ -11,3 +11,4 @@ const classifiedSchema = new mongoose.Schema({
 });
 
 module.exports = mongoose.model('Classified', classifiedSchema);
+//////////////////////////
